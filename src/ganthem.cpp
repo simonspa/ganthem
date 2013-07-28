@@ -394,7 +394,6 @@ int main(int argc, char *argv[])
 
       // This activity has been received, store that information:
       output << (int)filelist[i] << endl;
-
       
     }
 
