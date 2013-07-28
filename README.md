@@ -56,3 +56,4 @@ You have several options for downloading activiy data. All data transfer starts 
 
 All downloaded activities will be decoded from the FIT format into GPX files, which can be read by most sports tracking softwares. Every activity is stored separately as GPX file in the 'activities/' folder.
 
+Since the ANT+ radio transmission protocol does not seem to be too stable and the code is not really optimized towards failure-safe transmission, it might be necessary to restart ganthem if it exits with some errors in order to re-initialize the transmission.
