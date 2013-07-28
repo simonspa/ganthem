@@ -54,5 +54,5 @@ You have several options for downloading activiy data. All data transfer starts 
 
     ./ganthem -u
 
-All downloaded activities will be decoded from the FIT format into GPX files, which can be read by most sports tracking softwares. Every activity is stored separately as GPX file in teh folder 'activities/'.
+All downloaded activities will be decoded from the FIT format into GPX files, which can be read by most sports tracking softwares. Every activity is stored separately as GPX file in the 'activities/' folder.
 
