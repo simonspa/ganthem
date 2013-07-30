@@ -20,6 +20,8 @@ In order to be able to access the ANT USB stick you need to tell your system, th
 
     sudo modprobe usbserial vendor=0x0fcf product=0x1008 
 
+There is a shell script (getlatest.sh) to initialize and execute the ganthem update mode.
+
 The vendor and product id above belong to a Garmin Forerunner 310XT device, the only tested one. If you have a different device and want to give it a try, check for the ids using
 
     lsusb -v
